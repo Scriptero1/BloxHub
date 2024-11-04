@@ -11365,6 +11365,6 @@ OrionLib:Init()
 OrionLib:MakeNotification({
     Name = "Blox Hub",
     Content = "Loading Config Complete!!",
-    Image = "rbxassetid://119980140458596",
+    Image = "rbxassetid://98657568985652",
     Time = 5
 })
